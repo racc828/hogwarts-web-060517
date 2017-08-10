@@ -1,6 +1,39 @@
+.hog {
+  margin-bottom:30px;
+}
+
 .App {
   margin: 0% 5% 0% 5%;
   text-align: center;
+}
+
+.content {
+  padding: 10px 0;
+}
+
+.js-title {
+  font-size: 1.5em;
+}
+
+.ui.card>.image {
+  background: #fff!important;
+}
+
+.ui.slide.reveal {
+  white-space: normal!important;
+}
+
+.filter-container {
+  margin-bottom:30px;
+}
+
+img {
+  padding:0!important;
+}
+
+.info{
+  text-align:left;
+  padding: 0 20px;
 }
 
 .TwirlyPig {
@@ -64,7 +97,7 @@ ul {
 
 .subtleText {
   color: #D1D1D1;
-  font-size: .75em; 
+  font-size: .75em;
 }
 
 
